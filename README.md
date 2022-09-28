@@ -62,6 +62,27 @@
 
 ## My projects
 
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://athens-theta.vercel.app/" Title="Athens" target="_blank"> 
+    <img alt="ATHENS" src="">
+  </a> 
+  &emsp;
+  <a href="" Title="APP FOOD" target="_blank"> 
+    <img alt="APP FOOD" src="">
+  </a> 
+  &emsp;
+  <a href="#" Title="APP POKEMON" target="_blank"> 
+     <img alt="APP POKEMON" src="">
+   </a>
+  &emsp;
+  <a href="#" Title="APP DOGS" target="_blank"> 
+    <img alt="APP DOGS" src="">
+  </a>
+ </p>
+</br>
+
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
