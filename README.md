@@ -93,3 +93,4 @@
 </p>
 </div>
 
+<h3 align="center">Thanks for visiting!</h3>
